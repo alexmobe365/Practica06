@@ -1,0 +1,38 @@
+# Laboratorio: Explorar Azure Cosmos DB (DP-900)
+
+Este documento contiene las capturas de pantalla que evidencian la realización de los pasos del laboratorio oficial de Microsoft Azure Data Fundamentals sobre Azure Cosmos DB.
+
+## Paso 1: Aprovisionar una cuenta de Azure Cosmos DB
+*Captura mostrando la cuenta de Cosmos DB (API para NoSQL) creada y lista para usar.*
+
+**1.1. Recurso creado correctamente (Vista general)**
+![alt text](image-2.png)
+
+---
+
+## Paso 2: Crear una base de datos y un contenedor
+*Capturas utilizando el Explorador de datos (Data Explorer) para configurar la estructura.*
+
+**2.1. Creación de la base de datos y el contenedor (ej. base de datos 'AdventureWorks' y contenedor 'Products')**
+![alt text](image-3.png)
+---
+
+## Paso 3: Crear y visualizar elementos (Items)
+*Capturas demostrando la inserción de datos en formato JSON dentro del contenedor.*
+
+**3.1. Inserción de un nuevo elemento (New Item)**
+![alt text](image-4.png)
+
+**3.2. Visualización de los elementos guardados**
+![alt text](image-5.png)
+
+---
+
+## Paso 4: Consultar la base de datos
+*Capturas ejecutando consultas de tipo SQL nativas de Cosmos DB para buscar y filtrar los documentos.*
+
+**4.1. Ejecución de consulta SQL (ej. `SELECT * FROM c WHERE c.categoryId = "gear-surf-surfboards"`)**
+![alt text](image-6.png)
+
+---
+

@@ -1,0 +1,38 @@
+# Laboratorio: Explorar Azure Storage (DP-900)
+
+Este documento contiene las capturas de pantalla que evidencian la realización de los pasos del laboratorio oficial de Microsoft Azure Data Fundamentals sobre Azure Storage.
+
+## Paso 1: Explorar Azure Blob Storage
+*Capturas demostrando la creación de un contenedor y la subida de un archivo blob.*
+
+**1.1. Creación del contenedor (ej. 'data')**
+![Creación de contenedor Blob](img2\datastoragebrowser.png)
+
+**1.2. Archivo subido exitosamente al contenedor**
+![Carga de Blob](img2\datacontainer.png)
+
+---
+
+## Paso 2: Explorar Azure Data Lake Storage
+*Capturas del proceso de actualización a Gen2 y la navegación jerárquica.*
+
+**2.1. Actualización a Data Lake Gen2 completada**
+![Upgrade a Gen2](img2\mejora.png)
+
+**2.2. Creación de directorio y archivo subido (Espacio de nombres jerárquico)**
+![Directorio y archivo en Data Lake](ruta/a/tu/imagen_datalake_archivo.png)
+
+---
+
+## Paso 3: Explorar Azure Files
+*Capturas de la creación de un recurso compartido de archivos (File Share).*
+
+**3.1. Creación del recurso compartido (File share)**
+![Creación de File Share](img2\newclassicfile.png)
+
+
+---
+
+
+
+
